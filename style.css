@@ -23,3 +23,41 @@ window#waybar {
 #workspaces button.active {
     background-color: rgba(80, 80, 80, 0.5);
 }
+
+/* Modules Right */
+
+.modules-right, .modules-left, .modules-center {
+    font-weight: bold;
+}
+
+.modules-right { 
+    margin: 0px 15px;
+}
+
+.modules-left {
+    margin: 0px 15px;
+}
+
+#pulseaudio, #network, #cpu, #memory, #temperature, #clock {
+    margin-right: 18px;
+}
+
+#pulseaudio {
+    /* color: rgb(230, 208, 110); */
+}
+
+#network {
+   /* color: rgb(98, 187, 209); */
+}
+
+#cpu {
+  /*  color: rgb(98, 209, 115); */
+}
+
+#memory {
+  /*  color: rgb(137, 98, 209); */
+}
+
+#temperature {
+ /*   color: rgb(219, 137, 79); */
+}
