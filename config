@@ -38,6 +38,7 @@
         "rewrite": {
             "(.*) Mozilla Firefox": "Mozilla Firefox",
             "vim (.*)": "Vim",
+            "git (.*)": "Git",
         }
     },
   "clock": {
